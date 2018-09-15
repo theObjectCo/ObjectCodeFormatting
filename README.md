@@ -9,7 +9,7 @@ Please always structure the solution with clearly distinguished libraries. The d
 
 The ground-most library with as few references as necessary. Used by other Projects in the Solution.
 
-## ObjectExamples.Common Project
+### ObjectExamples.Common Project
 
 Helper classes to transfer the data from Core to UserInterface. Might not be necessary when working with a single user interface project.
 
